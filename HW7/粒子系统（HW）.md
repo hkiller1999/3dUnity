@@ -85,3 +85,4 @@ public class elimnation : MonoBehaviour
 ```
 
 我的github：[Github](https://github.com/hkiller1999/3dUnity/tree/master/HW7)
+视频地址：http://www.iqiyi.com/w_19saxevhfl.html
